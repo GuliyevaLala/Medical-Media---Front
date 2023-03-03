@@ -6,6 +6,7 @@
     list-style: none;
     text-decoration: none;
     border: none;
+    overflow-x: hidden;
 }
 body{
     scroll-behavior: smooth;
@@ -143,13 +144,12 @@ body{
 }
 
 #up .row .logo {
-    width: 146px;
-
-}
+    margin-left: 55px;
+    width: 315px;}
 
 #up .row .logo img {
-    width: 100%;
-    margin-left: 150px;
+    width: 150px;
+    margin-left: 107px;
 }
 
 .up-center-icon {
@@ -465,6 +465,8 @@ body{
 
 
 }
+
+
 
 #social-media .socials {
     position: absolute;
